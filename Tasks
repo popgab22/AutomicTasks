@@ -4,10 +4,11 @@ Tickets in Cherwell:
 1996344 - Account Creation
 1972505 - Martin said to closed.
 1924919 - Account Creation
+2012410 - Yearly Accounts
+2011547 - Account Creation
 
 Tickets in Jira:
 IAR-249 - Job Export
-14.06.2023:
 IAR-251 - job export to prod.
 IAR-247 - job export to prod.
 IAR-262 - new batch jobs for Imtron Direct Supply(job export)
@@ -15,4 +16,4 @@ IAR-262 - new batch jobs for Imtron Direct Supply(job export)
 
 HouseKeeping:
 Monthly server update
-
+Monthy Job HouseKeeping
