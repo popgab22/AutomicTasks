@@ -23,7 +23,8 @@ July:
 Tickets in Cherwell:
 2026952 - userCreation
 2029427 - userCreation
-2044151 = userCreation
+2044151 - userCreation
+2045885 - account creation
 
 Tickets in Jira:
 IAR-265 : Job Transport
@@ -35,10 +36,10 @@ IAR-274 : Job Transport
 IAR-224 : UserGroupRights (Rework)
 IAR-278 : Job Transport
 IAR-285 : Job Transport and Rights 
+IAR-289 Job transfer
 
 HouseKeeping:
 Monthly server update
 Monthy Job HouseKeeping
-IAR-289 Job transfer
-2045885 account creation
-2044151 account creation
+
+
