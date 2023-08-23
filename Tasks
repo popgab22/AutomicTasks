@@ -57,6 +57,8 @@ IAR-294 - job transfer and folder move
 IAR-297 - job and event transfer
 IAR-299 - job and event transfer
 IAR-301 - job transfer
+IAR-305 - Agent deletion
+IAR-306 - Agent Deletion
 
 HouseKeeping:
 Monthly server update
