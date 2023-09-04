@@ -67,6 +67,7 @@ IAR-312 - job transfer + agent change + rename
 IAR-315 - cancelled
 IAR-315 - job transfer + agent change + rename
 IAR-317 - job transfer 
+IAR-318 - Permission to create a job with the extension #GIKM.BODS.PROD on test
 
 HouseKeeping:
 Monthly server update
