@@ -83,6 +83,9 @@ IAR-323 - job transfer
 IAR-328 - monthly files in conap1 for SP
 IAR-329 - job transfer 
 IAR-330 - job transfer
+IAR-333 - object sync
 IAR-334 = job &folder transfer 
+
 HouseKeeping:
 Monthly server update
+Monthly housekeeping
