@@ -95,6 +95,14 @@ Monthly server update
 Monthly housekeeping
 
 Octombrie 2023
+
+Tickets in jira:
 IAR-342 - new batch jobs for Drp-Ship IVA billings
 IAR-345 - ES Abrechnung Paketierung
 IAR-346 - DE Abrechnung Paketierung
+IAR-350 - Two calendar creation
+IAR-351 - Deactivating a maildistributor
+
+HouseKeeping:
+Monthly server update + DB update
+
