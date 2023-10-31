@@ -105,6 +105,7 @@ IAR-351 - Deactivating a maildistributor
 IAR-353 - Update a process within a job
 IAR-354 - Transport job
 IAR-355 - JobTransport/DeleteOfJob
+IAR-358 - Jobs/Events/Scheduler deletion
 
 Tickets in cherwell:
 2155245 - not for us
