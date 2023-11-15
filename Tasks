@@ -124,3 +124,6 @@ IAR-363 - Variables changes
 IAR-364 - Transport events from test to productive automic
 IAR-367 - OFS Preparation (new Usergroups)
 IAR-373 - new job AL_SCE_V850
+
+Tickets in Cherwell:
+2190432 - user creation
