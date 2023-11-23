@@ -126,6 +126,12 @@ IAR-367 - OFS Preparation (new Usergroups)
 IAR-370 - Transport Objects from test to productive automic
 IAR-373 - new job AL_SCE_V850
 IAR-375 - Transport Object S_AFI
+IAR-376 - Copy jobs (monitoring) from test to prod
+IAR-377 - Copy Job from awi-test to awi-prod (LEB B)
+IAR-379 - Delete Jobs in Automic prod
+IAR-381 - Copy new job: IT_SCE_BIL_NOFI_FINANCE
+IAR-382 - Automic - Objekt Deployen auf PROD
+IAR-383 - Please copy job from TEST_AE to PROD_AE
 
 Tickets in Cherwell:
 2190432 - user creation
