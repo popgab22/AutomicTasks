@@ -132,6 +132,8 @@ IAR-379 - Delete Jobs in Automic prod
 IAR-381 - Copy new job: IT_SCE_BIL_NOFI_FINANCE
 IAR-382 - Automic - Objekt Deployen auf PROD
 IAR-383 - Please copy job from TEST_AE to PROD_AE
+IAR-384 - new Event IT_SCE_BIL_NOFI_EVENT_FINANCE#SCE.P15.SC
+IAR-385 - [Automic]please copy job from TEST_AE to PROD_AE
 
 Tickets in Cherwell:
 2190432 - user creation
