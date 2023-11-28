@@ -135,6 +135,7 @@ IAR-383 - Please copy job from TEST_AE to PROD_AE
 IAR-384 - new Event IT_SCE_BIL_NOFI_EVENT_FINANCE#SCE.P15.SC
 IAR-385 - [Automic]please copy job from TEST_AE to PROD_AE
 IAR-391 - [Automic] Transport Event
+IAR-392 - [Automic] Transport of Jobs and Variable to Productive Automic
 
 Tickets in Cherwell:
 2190432 - user creation
