@@ -137,6 +137,12 @@ IAR-385 - [Automic]please copy job from TEST_AE to PROD_AE
 IAR-391 - [Automic] Transport Event
 IAR-392 - [Automic] Transport of Jobs and Variable to Productive Automic
 IAR-395 - New Job for P15#SCE
+
+
 Tickets in Cherwell:
 2190432 - user creation
 2202763 - user update
+
+HouseKeeping
+Monthly Housekeeping
+Upgrade Automic Patching
