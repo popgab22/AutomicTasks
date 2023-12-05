@@ -137,6 +137,7 @@ IAR-385 - [Automic]please copy job from TEST_AE to PROD_AE
 IAR-391 - [Automic] Transport Event
 IAR-392 - [Automic] Transport of Jobs and Variable to Productive Automic
 IAR-395 - New Job for P15#SCE
+IAR-399 - Automic] - change the DE_GKM_DEC_* jobs
 
 
 Tickets in Cherwell:
