@@ -256,9 +256,12 @@ IAR-553 - Job transport
 IAR-564 - Please transfer 81_PT_OFS#OFS
 IAR-565 - Automic - Objekt Deployen auf PROD
 
+Monthy Job HouseKeeping
+
 Cherwell:
 2377111 - sso not working
 2377806 - user creation
 2383255 - Role added
 2381624 = role added
 2381627 - user creation
+2364735 - delete user
