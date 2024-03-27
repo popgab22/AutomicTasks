@@ -253,6 +253,8 @@ IAR-551 - transfer jobs
 IAR-552 - Tranfer job
 IAR-550 - New authorization
 IAR-553 - Job transport
+IAR-564 - Please transfer 81_PT_OFS#OFS
+IAR-565 - Automic - Objekt Deployen auf PROD
 
 Cherwell:
 2377111 - sso not working
