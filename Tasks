@@ -285,6 +285,7 @@ IAR-597 - Job and event Transfer
 IAR-598 - Jobs transfer
 IAR-599 - Job Deletion + Job Transfer
 IAR-601 - job renaming and searching
+IAR-600  - job Automic - Objekt Deployen auf PROD
 
 Cherwell 
 2418015 - user creation
