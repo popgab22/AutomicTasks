@@ -288,6 +288,8 @@ IAR-601 - job renaming and searching
 IAR-600  - job Automic - Objekt Deployen auf PROD
 IAR-603 - Job transfer
 IAR-604 - Job transfer
+IAR-605 - copy to awi-prod
+IAR-607 - please copy job from TEST_AE to PROD_AE
 
 Cherwell 
 2418015 - user creation
