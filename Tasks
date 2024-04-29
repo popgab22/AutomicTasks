@@ -290,6 +290,7 @@ IAR-603 - Job transfer
 IAR-604 - Job transfer
 IAR-605 - copy to awi-prod
 IAR-607 - please copy job from TEST_AE to PROD_AE
+IAR-611 - Import Job for SCE in SAP Retail
 
 Cherwell 
 2418015 - user creation
