@@ -340,6 +340,7 @@ IAR-667 - dashboard issue
 IAR-679 - transport case
 IAR-681 - transfer job
 IAR-684 - folder transfer
+IAR-682 - Automic: Transport von Automic DEV auf Automic Prod (rejected)
 
 Cherwell
 2520284 - User creation
@@ -348,6 +349,7 @@ Iulie 2024:
 IAR-687 - Job transfer
 IAR-689 - transport case
 IAR-690 - transport case
+IAR-691 - ES Abrechnung Paketierung
 IAR-692 - DE Abrechnung Paketierung
 IAR-695 - transport case (AE_PROD) --> AE_DEV Client: 9000
 
