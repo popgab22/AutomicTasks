@@ -354,7 +354,7 @@ IAR-692 - DE Abrechnung Paketierung
 IAR-694 - Deploying object on AE PROD
 IAR-695 - transport case (AE_PROD) --> AE_DEV Client: 9000
 IAR-700 - Transport case TEST - >DEV CLT:10
-IAR-694 - Transport case  DEV - > PROD 10
+
 
 Cherwell
 2542350 - user creation
