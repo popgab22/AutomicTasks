@@ -384,6 +384,7 @@ IAR-752 - Deploying objects on AE_PROD
 IAR-753 - Deploying objects on AE_PROD
 IAR-754 - new job please copy to proc (ZFOC Check)
 IAR-755 - Copy Automic Jobs - P2P Goods
+IAR-751 - authorizations on DEV and PROD NEW
 
 Cherwell
 2580757 - user creation
