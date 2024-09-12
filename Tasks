@@ -397,6 +397,7 @@ IAR-756 - transport case PROD NEW -> DEV NEW
 IAR-757 - Deploying object on AE_PROD
 IAR-759 - Deploying object on AE_PROD
 IAR-762 - Deploying objects on PROD and Deleting objects for PROD
+IAR-764 - authorizations on NEW PROD
 
 Supplier List 
 IAR-768 - ES
