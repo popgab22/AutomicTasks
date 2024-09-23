@@ -402,6 +402,10 @@ IAR-764 - authorizations on NEW PROD
 Supplier List 
 IAR-768 - ES
 IAR-769 - DE
+IAR-764 - Authorization
+IAR-765 - job transfer
+IAR-772 - job transfer
+IAR-775 - job transfer
 
 Cherwell
 2637104 - user creation
