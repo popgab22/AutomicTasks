@@ -408,6 +408,7 @@ IAR-772 - job transfer
 IAR-775 - job transfer
 IAR-777 - job transfer
 IAR-780 - Transport objects from automic dev to prod
+IAR-786 - Automic: Object Transport for CCS 
 
 Cherwell
 2637104 - user creation
