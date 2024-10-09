@@ -410,6 +410,7 @@ IAR-777 - job transfer
 IAR-780 - Transport objects from automic dev to prod
 IAR-786 - Automic: Object Transport for CCS 
 IAR-788 - Transport for Marketplace objects 
+IAR-790 - Object Transport for Marketplace objects 
 
 Cherwell
 2637104 - user creation
