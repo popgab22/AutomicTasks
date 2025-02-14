@@ -44,3 +44,5 @@ IAR-900 - Transport of Jobs to Productive environment
 IAR-903 - Automic: Create Job&Event for SCE in SAP Retail
 IAR-907 - DE Abrechnung Paketierung
 IAR-906 - ES Abrechnung Paketierung
+IAR-908 - Copy to Prod AL_SCE_IDOC_FIDCCX_DEL#SCE.P15.SC
+
