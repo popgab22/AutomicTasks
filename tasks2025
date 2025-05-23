@@ -116,4 +116,5 @@ IAR-964 - [Automic] URGENT Abrechnungsfiles auf Server legen ES/DE ZENTRAL Ultim
 IAR-966 - [Automic] - Transport Objects from test to productive automic
 IAR-968 - Automic: Object Transport for Marketplace objects - Rollout PL (64_PT_FINBAC/03_MIRAKL#FINB)
 IAR-972 - Transport to PRD
-IAR-974 -Automic: Transport Dev zu Prod
+IAR-974 - Automic: Transport Dev zu Prod
+IAR-977 - Transport to PRD
