@@ -133,6 +133,7 @@ June 2025
 
 IAR-986 - Objects transport to PRD
 IAR-988 - Objects transport to PRD
-IAR-990 - Automic: Object Transport for Marketplace objects 
+IAR-990 - Automic: Object Transport for Marketplace objects
+IAR-995 - Permissions for creation of scheduler added
 IAR-996 - Automic - Rename/change SAP Retail Platform Jobs at AWI_PROD
 IAR-998 - Automic - Copy modified notification objects to AWI_PROD
