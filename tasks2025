@@ -134,6 +134,7 @@ June 2025
 
 Automic Housekeeping
 Automic Patch Management
+
 IAR-909 - Rights for EVENTS on DEV & PROD
 IAR-986 - Objects transport to PRD
 IAR-988 - Objects transport to PRD
@@ -143,3 +144,5 @@ IAR-996 - Automic - Rename/change SAP Retail Platform Jobs at AWI_PROD
 IAR-998 - Automic - Copy modified notification objects to AWI_PROD
 IAR-1000 - AUTOMIC - Transport Automic Jobplan from Dev to Prod
 IAR-1003 - AUTOMIC Transport Automic Jobplan from Dev to Prod
+
+Mails - Edit Notification for all - Patrick requested. 
