@@ -165,3 +165,4 @@ IAR-1014 - DE Abrechnung Paketierung 2025 06
 IAR-1015 - ES Abrechnung Paketierung 2025 06
 IAR-1013 - create job on PROD ZFOC_CHECK Fulfillment
 IAR-1016 - Automic - Remove Mail Recipient
+IAR-1019 - Automic: Transport jobs from Test Automic to Prod Automic P15
