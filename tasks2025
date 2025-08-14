@@ -176,11 +176,13 @@ IAR-1022 - Transport
 
 
 August 2025
+
 Cherwell
 3047516 - user update
 3053653 - user creation
 3054881 - user creation
 3054053 - user creation
+3056768 - rights allocation
        
 
 IAR-1024 - Transfer
@@ -193,3 +195,4 @@ IAR-1032 - [Automic] - Removal of Mail Recipient
 IAR-1033 - Transport Objects from dev to prod
 IAR-1035 - Transport Objects from dev to prod
 IAR-1036 - Transport Objects from dev to prod
+IAR-1037 - Transport Objects from dev to prod
