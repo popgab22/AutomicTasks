@@ -183,6 +183,7 @@ Cherwell
 3054881 - user creation
 3054053 - user creation
 3056768 - rights allocation
+3062104 - rights assignment
        
 
 IAR-1024 - Transfer
@@ -196,3 +197,4 @@ IAR-1033 - Transport Objects from dev to prod
 IAR-1035 - Transport Objects from dev to prod
 IAR-1036 - Transport Objects from dev to prod
 IAR-1037 - Transport Objects from dev to prod
+IAR-1041 - wrong ticket - closed(created on Cherwell 3062104)
