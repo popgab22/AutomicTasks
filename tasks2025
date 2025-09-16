@@ -210,6 +210,8 @@ Cherwell Tickets
 3083945 - user creation DEV 10
 3087848 - user creation on PROD & DEV 10
 
+Automic = Patch management & DB maintenance
+
 Jira 
 IAR-1046 - Automic] SCE Archiving (CHANGEDOCU) update/modification on DEV copie to Prod
 IAR-1045 - Transport GIKM Objects to PROD
