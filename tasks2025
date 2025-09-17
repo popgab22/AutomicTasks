@@ -209,7 +209,7 @@ Septembrie 2025
 Cherwell Tickets
 3083945 - user creation DEV 10
 3087848 - user creation on PROD & DEV 10
-
+ 
 Automic = Patch management & DB maintenance
 
 Jira 
@@ -224,3 +224,4 @@ IAR-1053 - Automic: Object Transport for Marketplace objects - Rollout Turkey
 IAR-1056 - ES and DE ZEN ULTIMO upload on Server
 IAR-1057 - SCE change of Job name for IDOC (Day to DAY)
 IAR-1058 - Automic - Deploying object on AE PROD
+IAR-1062 - Transport GIKM Objects to PROD
