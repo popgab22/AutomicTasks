@@ -192,7 +192,8 @@ Monthly activities
 
 Jira
 IAR-1024 - Transfer
-IAR-1025 - delete objects from prod
+IAR-
+1025 - delete objects from prod
 IAR-1027 - Automic: Object Transport for Marketplace 
 IAR-1029 - Transport Objects from dev to prod
 IAR-1030 - Need 1 Jobplan on PROD_AE
@@ -226,3 +227,12 @@ IAR-1057 - SCE change of Job name for IDOC (Day to DAY)
 IAR-1058 - Automic - Deploying object on AE PROD
 IAR-1062 - Transport GIKM Objects to PROD
 IAR-1065 - [Automic] Please import 2 jobs into Prod-environment
+
+
+Octombrie 2025
+
+
+
+
+Jira
+IAR-1067 - Change for "CHANGEDOCU_WRI_MAT_FULL"
