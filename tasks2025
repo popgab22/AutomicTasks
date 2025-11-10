@@ -262,6 +262,7 @@ IAR-1092 - CLONE - Automic: Transport Dev zu Prod
 Noiembrie 2025
 
 Martin task - deactivated a Trace on AE_DEV for Agent K11 = done
+Sahoo Plaban - Automic workflow retriggering ( deactivate and restart a jobs that was blocked)
 Cherwell
 
 
