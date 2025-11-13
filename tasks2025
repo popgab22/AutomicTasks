@@ -273,6 +273,7 @@ IAR-1095 - Archiving Jobs - Transport files
 IAR-1097 - Need 1 Folder  + the containing jobs and plans on PROD_AE - Transport files
 IAR-1098 - delete Job: AL_SCE_IDO_REPROCESS_LOIMSO_IM_WHIN#SCE.P15.SC
 IAR-1099 - Automic: Transport Dev zu Prod
+IAR-1100 - [Automic] - Files with GKM suppliers for settlement
 
 
 
