@@ -293,5 +293,6 @@ IAR-1118 - Automic - Deploying object on AE PROD
 IAR-1123 - Automic - DE/ES Zentral Ultimo auf Server legen
 IAR-1124 - Automic Transport Objects from dev to prod
 IAR-1126 - Automic: Object Transport for Marketplace objects 
+IAR-1130 - Transport of Jobs to Productive Environment
 
 
