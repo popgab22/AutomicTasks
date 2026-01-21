@@ -1,10 +1,13 @@
 Ianuarie 2026
 
 Automic 
+
 Cherwell - 3223545 user creation
          - 3214730 users creation 
           -3225307 automic PROD down
+
 Automic Patch Management 20.01.2026
+
 Jira Tickets 
 IAR-1125 - [Automic] new job copy to prod AL_SCE_ARC_IDOC_30DAY_WRI_ARC#SCE.P15.SC
 IAR-1128 - [Automic] Export Jobs from Automic Dev to Automic Prod for Dynamic BBXD
@@ -19,5 +22,7 @@ IAR-1129 - [Automic] Wrong Script for collecting spool numbers
 
 
 BluePrism
+
 Jira Tickets 
 IAR-1154 - [GBS] SPLITBOT Debugging session required
+IAR-1151 - Credential assignment
