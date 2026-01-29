@@ -21,7 +21,6 @@ IAR-1129 - [Automic] Wrong Script for collecting spool numbers
 IAR-1158 - [Automic] - Transport Objects from test to productive automic
 IAR-1160 - [Automic] Object Transport for Marketplace objects - RollOut CH (64_PT_FINBAC/03_MIRAKL#FINB)
 IAR-1161 - [Automic] new Object for Spool to Mail in SCE (LEB_B)
-
 IAR-1162 - [Automic] new job for SCE (IDOC ALEAUD)
 
 
