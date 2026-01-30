@@ -24,6 +24,8 @@ IAR-1160 - [Automic] Object Transport for Marketplace objects - RollOut CH (64_P
 IAR-1161 - [Automic] new Object for Spool to Mail in SCE (LEB_B)
 IAR-1162 - [Automic] new job for SCE (IDOC ALEAUD)
 IAR-1163 - [Automic] object transport
+IAR-1166 - [Automic] Transport Objects from dev to prod
+
 
 
 
