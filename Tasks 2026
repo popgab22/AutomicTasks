@@ -45,12 +45,13 @@ BluePrism
 IAR-1171 - [GBS] Restart machine GCP04RUNBLUG01P
 IAR-1173 - Assign/create credential
 IAR-1176 - [GBS]- Restart GCP04RUNBLUG06P
+IAR-1180 - [GBS] Restart machine GCP04RUNBLUG01P
 
 Automic 
 Jira Tickets 
 
 IAR-1167 - Automic: Transport object S_AFI_FIGL_PC18 zu Prod
 IAR-1168 - Automic: Transport of Jobs to Productive Environment
-IAR-1170 - [Automic] new Job to copy from dev to prod (Status_SCRETURNS)
+IAR-1170 - [Automic] Transport - new Job to copy from dev to prod (Status_SCRETURNS)
 
 
