@@ -49,6 +49,7 @@ IAR-1180 - [GBS] Restart machine GCP04RUNBLUG01P
 
 Automic 
 Jira Tickets 
+New Group was created in DEV and PROD client 10 - USRG.ROLE.ARCHIVE_P15_READ_ONLY#AUTH, USRG.ROLE.PT_SAPP_OPERATIONS_READ_ONLY#AUTH_PRIV. 
 
 IAR-1167 - Automic: Transport object S_AFI_FIGL_PC18 zu Prod
 IAR-1168 - Automic: Transport of Jobs to Productive Environment
