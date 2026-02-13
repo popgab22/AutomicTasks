@@ -54,6 +54,7 @@ New Group was created in DEV and PROD client 10 - USRG.ROLE.ARCHIVE_P15_READ_ONL
 
 IAR-1167 - Automic: Transport object S_AFI_FIGL_PC18 zu Prod
 IAR-1168 - Automic: Transport of Jobs to Productive Environment
-IAR-1170 - [Automic] Transport - new Job to copy from dev to prod (Status_SCRETURNS)
+IAR-1170 - Automic Transport - new Job to copy from dev to prod (Status_SCRETURNS)
+IAR-1181 - Automic - Files with GKM suppliers for settlement = supplier list
 
 
