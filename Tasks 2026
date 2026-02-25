@@ -46,6 +46,12 @@ Cherwell
 3260237 - user creation
 
 BluePrism 
+Order certificates for servers -
+gcp04appblu001d
+gcp04appblu002d
+bp-appapi-dev.media-saturn.com
+gcp04hubblu001d
+
 IAR-1171 - [GBS] Restart machine GCP04RUNBLUG01P
 IAR-1173 - Assign/create credential
 IAR-1176 - [GBS]- Restart GCP04RUNBLUG06P
@@ -56,6 +62,8 @@ IAR-1191 - Debugging
 IAR-1194 - Debugging
 
 Automic 
+
+Install the Housekeeping script on DEV & PROD env. 
 Jira Tickets 
 New Group was created in DEV and PROD client 10 - USRG.ROLE.ARCHIVE_P15_READ_ONLY#AUTH, USRG.ROLE.PT_SAPP_OPERATIONS_READ_ONLY#AUTH_PRIV. 
 
