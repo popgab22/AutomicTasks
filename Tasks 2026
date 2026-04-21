@@ -122,6 +122,7 @@ Cherwell
 3311676 - user info updates. 
 3379622 - user creation
 3379617 - user creation
+3382136 - user creation 
 
 Jira Automic 
 IAR-1253 - [Automic] Copy Job & Event for ORDRSP reprocessing to Prod environment
@@ -133,6 +134,7 @@ IAR-1264 - Transport
 IAR-1270 - Transport
 IAR-1271 - please import to PROD
 IAR-1272 - [Automic] - Transport Objects from test to productive automic
+IAR-1273 - Automic: Object(s) Transport
 
 Jira Blue Prism 
 IAR-1256 - [GBS] - Assignment credentials MMSGBS Email Process Management - DEV
