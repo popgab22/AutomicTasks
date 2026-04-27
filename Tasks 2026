@@ -137,6 +137,9 @@ IAR-1271 - please import to PROD
 IAR-1272 - [Automic] - Transport Objects from test to productive automic
 IAR-1273 - Automic: Object(s) Transport
 IAR-1277 - Transport CELONIS_DELTA jobs
+IAR-1280 - Transport CELONIS_DELTA folder PROD to DEV
+IAR-1282 - Transport CELONIS_DELTA and CELONIS_FULL
+
 
 Jira Blue Prism 
 IAR-1256 - [GBS] - Assignment credentials MMSGBS Email Process Management - DEV
