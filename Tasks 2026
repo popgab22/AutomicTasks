@@ -139,6 +139,8 @@ IAR-1273 - Automic: Object(s) Transport
 IAR-1277 - Transport CELONIS_DELTA jobs
 IAR-1280 - Transport CELONIS_DELTA folder PROD to DEV
 IAR-1282 - Transport CELONIS_DELTA and CELONIS_FULL
+IAR-1286 - Automic: Transport jobs from Test Automic to Prod Automic P15
+
 
 
 Jira Blue Prism 
