@@ -162,6 +162,7 @@ Mai
 Cherwell 
 3386173 - user reactivation
 3391884 - users updated
+3397600 - 
 
 Jira Blue Prism 
 IAR-1291 - [GBS] Restart PROD VM GCP04RUNBLUG01P
@@ -171,6 +172,7 @@ Jira Automic
 IAR-1285 - [Automic] - copy jobs from DEV to PROD folder M_MATERIAL_VALUATION
 IAR-1292 - [Automic] - Transport CELONIS_FULL#P2P folder
 IAR-1293 - [Automic] - Transport Objects from test to productive automic
+IAR-1294 - [Automic] copy job from DEV to PROD folder
 
 
 
