@@ -173,6 +173,7 @@ IAR-1285 - [Automic] - copy jobs from DEV to PROD folder M_MATERIAL_VALUATION
 IAR-1292 - [Automic] - Transport CELONIS_FULL#P2P folder
 IAR-1293 - [Automic] - Transport Objects from test to productive automic
 IAR-1294 - [Automic] copy job from DEV to PROD folder
+IAR-1295 - XX_P2P_EXT_CEL_8LOG#P2P.C11.FI 
 IAR-1296 - [Automic] XX_P2P_EXT_CEL_LFA1_DELTA#P2P.C11.FI - job transport
 
 
