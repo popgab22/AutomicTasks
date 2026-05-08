@@ -163,6 +163,7 @@ Cherwell
 3386173 - user reactivation
 3391884 - users updated
 3397600 - ticket duplicate  
+3396113 - roles added it 
 
 Jira Automic 
 IAR-1285 - [Automic] - copy jobs from DEV to PROD folder M_MATERIAL_VALUATION
@@ -172,6 +173,7 @@ IAR-1294 - [Automic] copy job from DEV to PROD folder
 IAR-1295 - XX_P2P_EXT_CEL_8LOG#P2P.C11.FI 
 IAR-1296 - [Automic] XX_P2P_EXT_CEL_LFA1_DELTA#P2P.C11.FI - job transport
 IAR-1297 - DE Abrechnung Paketierung_2026 05 supplie
+
 Jira Blue Prism 
 IAR-1291 - [GBS] Restart PROD VM GCP04RUNBLUG01P
 
