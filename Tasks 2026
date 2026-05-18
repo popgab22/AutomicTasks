@@ -176,6 +176,8 @@ IAR-1297 - DE Abrechnung Paketierung_2026 05 supplie
 IAR-1298 - [Automic] Transport job T101T
 IAR-1299 - [Automic] Transport job PL LFA1 FULL
 IAR-1304 - ES Abrechnung Paketierung_2026.05
+IAR-1307 - [Automic] Transport job delta load client 003 BKPF, BSAK
+
 
 Jira Blue Prism 
 IAR-1291 - [GBS] Restart PROD VM GCP04RUNBLUG01P
