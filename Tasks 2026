@@ -181,6 +181,7 @@ IAR-1307 - [Automic] Transport job delta load client 003 BKPF, BSAK
 
 Jira Blue Prism 
 IAR-1291 - [GBS] Restart PROD VM GCP04RUNBLUG01P
+IAR-1309 - [GBS] Restart DEV VM - gcp04devblu108d
 
 
 
