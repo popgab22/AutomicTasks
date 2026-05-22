@@ -182,6 +182,7 @@ IAR-1312 - Delete a workflow on AE_DEV
 IAR-1310 - Please import job DE_SCE_STO_COMPRSN_4929_SCRETURNS#SCE.P15.SC to Prod
 IAR-1314 - [Automic] Transport Objects from dev to prod
 IAR-1318 - Transport update DEV to PROD Variant PL
+IAR-1315 - Transport update DEV to PROD Variant BELUX
 
 
 
