@@ -167,6 +167,7 @@ Cherwell
 3409548 - users creation
 
 Jira Automic 
+19.05.2026 Automic Patch management.
 IAR-1285 - [Automic] - copy jobs from DEV to PROD folder M_MATERIAL_VALUATION
 IAR-1292 - [Automic] - Transport CELONIS_FULL#P2P folder
 IAR-1293 - [Automic] - Transport Objects from test to productive automic
@@ -188,6 +189,7 @@ IAR-1317 - Transport update DEV to PROD Variant NL
 
 
 Jira Blue Prism 
+20.05.2026 Blue Prism Patch Management
 IAR-1291 - [GBS] Restart PROD VM GCP04RUNBLUG01P
 IAR-1309 - [GBS] Restart DEV VM - gcp04devblu108d
 
