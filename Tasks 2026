@@ -193,6 +193,8 @@ Jira Blue Prism
 20.05.2026 Blue Prism Patch Management
 IAR-1291 - [GBS] Restart PROD VM GCP04RUNBLUG01P
 IAR-1309 - [GBS] Restart DEV VM - gcp04devblu108d
+IAR-1319 - [GBS] Restart PROD VM - gcp04runblug01p
+
 
 
 
