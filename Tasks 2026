@@ -211,6 +211,9 @@ IAR-1344 - Execute Logout Process on 005P
 IAR-1343 - GBS: APPROVALBOT Change Request Debug Session
 IAR-1348 - GBS Deployment insurebot support
 IAR-1342 - Create SAP credentials for bots
+IAR-1346 - [GBS]: Ivanti credentials in PROD
+IAR-1349 - [GBS] - MMSGBS039_APPLESTATBOT - Go live Support
+
 
 
 
