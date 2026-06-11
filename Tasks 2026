@@ -217,6 +217,7 @@ IAR-1349 - [GBS] - MMSGBS039_APPLESTATBOT - Go live Support
 
 
 
+
 Jira Automic
 
 IAR-1337 - BELUX: Transport update DEV to PROD jobs CELONIS_FULL#P2P/BELUX#P2P
@@ -227,6 +228,8 @@ IAR-1341 - XX: Transport update DEV to PROD jobs CELONIS_FULL#P2P/XX#P2P
 IAR-1356 - Transport Workflow update DEV to PROD Variant XX
 IAR-1352 - Transport Workflow update DEV to PROD Variant BENELUX
 IAR-1353 - Transport Workflow update DEV to PROD Variant ES
+IAR-1354 - Transport Workflow update DEV to PROD Variant NL
+
 
 
 
