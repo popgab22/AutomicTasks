@@ -214,6 +214,7 @@ IAR-1342 - Create SAP credentials for bots
 IAR-1346 - [GBS]: Ivanti credentials in PROD
 IAR-1349 - [GBS] - MMSGBS039_APPLESTATBOT - Go live Support
 IAR-1350 - [GBS] - ODBCs update - Store db not available in GMS
+IAR-1378 - Restart 004P machine
 
 
 
