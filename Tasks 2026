@@ -205,6 +205,7 @@ IAR-1319 - [GBS] Restart PROD VM - gcp04runblug01p
 Iunie 2026 
 
 Jira Blue Prism 
+
 IAR-1328 - [GBS] - MMSGBS044_IMMERGEBOT - Go live Support
 IAR-1342 - Create SAP credentials for bots
 IAR-1344 - Execute Logout Process on 005P
@@ -267,6 +268,9 @@ Cherwell Automic
 3428457 - user creation
 3428188 - user creation
 
+
+Neurons Ivanti
+20007079 - user creation PROD and DEV
 
 
 
