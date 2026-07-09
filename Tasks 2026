@@ -255,20 +255,11 @@ IAR-1375 - NL: Transport update DEV to PROD jobs CELONIS_FULL#P2P/NL#P2P
 IAR-1376 - PL: Transport update DEV to PROD jobs CELONIS_FULL#P2P/PL#P2P
 IAR-1382 - Please import job DE_SCE_STO_COMPRSN_4921_SCRETURNS#SCE.P15.SC to Prod + 4922
 
-
-
-
-
-
-
-
-
 Cherwell Automic  
 
 3428477 - user creation
 3428457 - user creation
 3428188 - user creation
-
 
 Neurons Ivanti
 20007079 - user creation PROD and DEV
@@ -286,6 +277,8 @@ IAR-1399 - machine restart
 Blue Prism Ivanti
 
 Automic Jira
+IAR-1400 - supplier list
+IAR-1401 - supplier list
 
 Automic Ivanti
 
