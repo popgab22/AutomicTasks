@@ -292,6 +292,7 @@ IAR-1393 - AE_PROD: 10 Import new Object
 IAR-1394 - NL: Transport update DEV to PROD jobs CELONIS_FULL#P2P/NL#P2P
 IAR-1395 - NL: Transport update DEV to PROD jobs CELONIS_DELTA#P2P/NL#P2P
 IAR-1396 - XX: Transport update DEV to PROD jobs CELONIS_FULL#P2P/XX#P2P
+IAR-1411 - Transport AL_SCE_VIM:DEBIT_SUPP_LIST Job from K15 to P15
 
 
 
