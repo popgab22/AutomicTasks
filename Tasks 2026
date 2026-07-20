@@ -273,6 +273,7 @@ IAR-1392 - Rights allocation
 IAR-1383 - upgrade PDF24 Version to latest
 IAR-1398 - Credentials
 IAR-1399 - machine restart
+IAR-1407 - update pdf24 on all dev and prod machines
 
 Blue Prism Ivanti
 Blue Prism path management - done 
@@ -295,6 +296,9 @@ IAR-1394 - NL: Transport update DEV to PROD jobs CELONIS_FULL#P2P/NL#P2P
 IAR-1395 - NL: Transport update DEV to PROD jobs CELONIS_DELTA#P2P/NL#P2P
 IAR-1396 - XX: Transport update DEV to PROD jobs CELONIS_FULL#P2P/XX#P2P
 IAR-1411 - Transport AL_SCE_VIM:DEBIT_SUPP_LIST Job from K15 to P15
+
+Automic Mail 
+Created script for email notification for Celonis jobs on PROD and DEV
 
 
 
