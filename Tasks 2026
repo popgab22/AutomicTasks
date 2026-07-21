@@ -274,6 +274,7 @@ IAR-1383 - upgrade PDF24 Version to latest
 IAR-1398 - Credentials
 IAR-1399 - machine restart
 IAR-1407 - update pdf24 on all dev and prod machines
+ IAR-1414 - Restart machine
 
 Blue Prism Ivanti
 Blue Prism path management - done 
