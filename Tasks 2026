@@ -276,18 +276,15 @@ IAR-1399 - machine restart
 IAR-1407 - update pdf24 on all dev and prod machines
 IAR-1414 - Restart machine
 
-
-
-
-
-
 Blue Prism Ivanti
-Blue Prism path management - done 
+
+Blue Prism path management 15.07.2026 - done 
 IAR-1404 - [MMS084] Debugging 
 IAR-1412 - [GBS] Debug session SINGLEBOT PL
 IAR-1410 - [GBS] ZIRRETBOT Debug Session Request
 IAR-1409 - CCRSBOT | Create AD credential
 
+Automic Patch Management 21.07.2026
 Automic Jira
 
 IAR-1400 - supplier list
