@@ -304,6 +304,7 @@ IAR-1411 - Transport AL_SCE_VIM:DEBIT_SUPP_LIST Job from K15 to P15
 
 Automic Mail 
 Created script for email notification for Celonis jobs on PROD and DEV
+Automic Patch management - 21.07.2026
 
 
 
