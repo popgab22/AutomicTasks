@@ -285,11 +285,13 @@ IAR-1410 - [GBS] ZIRRETBOT Debug Session Request
 IAR-1409 - CCRSBOT | Create AD credential
 
 Automic Patch Management 21.07.2026
+
 Automic Jira
 
 IAR-1400 - supplier list
 IAR-1401 - supplier list
 IAR-1406 - create db scheduling event
+IAR-1416 - transport job and event
 
 
 
@@ -304,7 +306,7 @@ IAR-1411 - Transport AL_SCE_VIM:DEBIT_SUPP_LIST Job from K15 to P15
 
 Automic Mail 
 Created script for email notification for Celonis jobs on PROD and DEV
-Automic Patch management - 21.07.2026
+
 
 
 
