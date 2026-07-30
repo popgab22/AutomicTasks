@@ -309,6 +309,9 @@ IAR-1396 - XX: Transport update DEV to PROD jobs CELONIS_FULL#P2P/XX#P2P
 IAR-1411 - Transport AL_SCE_VIM:DEBIT_SUPP_LIST Job from K15 to P15
 IAR-1417 - Transport Automic Object S_G_MD_COMPANY_TXT#FICO.P37.BW from DEV to PROD
 
+20016646 - user creation - Automic 
+20015928 - user creation - Automic 
+
 Automic Mail 
 Created script for email notification for Celonis jobs on PROD and DEV
 
