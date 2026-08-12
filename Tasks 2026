@@ -324,13 +324,15 @@ IAR-1427 - Automic: Transport jobs from Test Automic to Prod Automic P15
 Blue Prism 
 2 Cretificates reuqested
 MMS073_Billing Prozess - config files update - done 
-Restarting - 4 Blue Prism machines 
-Restarting Dynamic sched. 
+Restarting - 4 Blue Prism machines - done 
+Restarting Dynamic sched. - done 
+MMS061 Config - config files updated - done 
 
 
 Jira Blue Prism 
 IAR-1434 - [GBS] Restart machine GCP04RUNBLUG01P
 IAR-1441 - [GBS] Restart machine GCP04devBLU107d
 IAR-1444 - [GBS] Restart dev machine gcp04devblu107d
+IAR-1447 - MMS112_ZIR Process_Abliefernachweis - GCP04RUNBLU003P
 
 
