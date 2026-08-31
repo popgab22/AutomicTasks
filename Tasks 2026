@@ -352,5 +352,6 @@ IAR-1444 - [GBS] Restart dev machine gcp04devblu107d
 IAR-1447 - MMS112_ZIR Process_Abliefernachweis - GCP04RUNBLU003P
 IAR-1457 - restart 2 machines
 IAR-1466 - [GBS] Restart PROD VM GCP04RUNBLUG10P
+IAR-1468 - [GBS] Restart machine GCP04RUNBLUG10P
 
 
