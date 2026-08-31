@@ -322,6 +322,8 @@ Ivanti tickets
 
 20023436 - access dont work. 
 20027323 - user check 
+20029249 - cancel ticket duplicate
+10049563 - cancel ticket. wrong application
 
 Jira Automic 
 IAR-1427 - Automic: Transport jobs from Test Automic to Prod Automic P15
