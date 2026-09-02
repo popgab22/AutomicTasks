@@ -336,6 +336,8 @@ IAR-1456- copy jobs to prod
 IAR-1448 - Supplier list
 IAR-1449 - Supplier list
 
+Installation of the certificates for SAML
+
 Blue Prism 
 2 Cretificates reuqested
 MMS073_Billing Prozess - config files update - done 
@@ -343,7 +345,6 @@ Restarting - 4 Blue Prism machines - done
 Restarting Dynamic sched. - done 
 MMS061 Config - config files updated - done 
 Blue Prism -  Installation of the certificates  on Blue Prism App 1 & 2 - done
-Installation of the certificates for SAML
 Security Patching 
 User creation on DEV - SAP & Blue Prism env. - BOT-APPROVAL
 User creation on DEV - SAP & Blue Prism env. - BOT-MDC 
