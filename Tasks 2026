@@ -360,7 +360,14 @@ IAR-1457 - restart 2 machines
 IAR-1466 - [GBS] Restart PROD VM GCP04RUNBLUG10P
 IAR-1468 - [GBS] Restart machine GCP04RUNBLUG10P
 
+
 Septembrie 2026
 
-Blue Prism
+Blue Prism 
 User creation on DEV - SAP & Blue Prism env. - BOT-SPLIT
+
+Ivanti tickets 
+20030441 - user creation for trainer in Dev env. 
+
+Jira Blue Prism 
+IAR-1470 - Access Request to new colleague
