@@ -379,6 +379,7 @@ IAR-1472 - Deploy new Jobs to Autmoic Prod
 IAR-1474 - Transport/change GKM objects in Prod
 IAR-1475 - Automic: Transport objects DEV-PROD request
 IAR-1476 - Automic: Transport Object (From Prod to Dev)
+IAR-1473 - Automic: Transport GIKM Objects to PROD
 
 
 
