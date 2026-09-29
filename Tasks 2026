@@ -377,6 +377,7 @@ IAR-1470 - Access Request to new colleague
 IAR-1489 - [GBS] - MMSGBS041_SHIPFROMSTOREBOT - Go Live
 IAR-1499 - [GBS] Restart machine GCP04RUNBLUG07P
 IAR-1501 - [GBS] Restart machine GCP04RUNBLUG09P
+IAR-1512 - [GBS] Assignment of credentials for MMSGBS045_GMSFRAUDBOT in dev
 
 Automic Patch management & DB Maint - done 
 Jira Automic 
