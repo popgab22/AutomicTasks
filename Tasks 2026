@@ -433,3 +433,4 @@ IAR-1531 ES: Transport update DEV to PROD job CELONIS_DELTA#P2P/ES#P2P - done
 IAR-1529 PL: Transport update DEV to PROD job CELONIS_FULL#P2P/PL#P2P - done 
 IAR-1528 PL: Transport update DEV to PROD job CELONIS_DELTA#P2P/PL#P2P -  done 
 IAR-1537 - [Automic] - Correction name table in variant for CELONIS_DELTA#P2P folder jobs countries ES, PL, BE, NL to be send from dev to productive
+IAR-1515 - modification notification objects in dev and prod
