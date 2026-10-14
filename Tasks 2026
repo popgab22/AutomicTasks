@@ -403,6 +403,11 @@ IAR-1510 - [GBS] Debug session SINGLEBOT PL
 
 Blue prism email
 create credentials for SAP C11 - 003 to 101 client - BOT-SPLIT
+create credentials for SAP K11 - 003 to 101 client - BOT-SINGLE
+create credentials for SAP K12 - 003 to 101 client - BOT-SINGLE
+create credentials for SAP K11 - 003 - BOT-B2B
+create credentials for SAP K12 - 003 - BOT-B2B
+
 
 
 Ivanti Automic 
