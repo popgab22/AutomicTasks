@@ -449,6 +449,7 @@ IAR-1542 - transport
 IAR-1546 - Automic: Transport jobs from Test Automic to Prod Automic P15
 IAR-1548 - Transport Automic job AL_SCE_IDO_SCE_LTA_IBDL_TO_COS_SCIN# and associated event to Production
 IAR-1551 - PL: Transport update DEV to PROD job CELONIS_FULL#P2P/PL#P2P
+IAR-1479 - authorization for c11 group
 
 
 
