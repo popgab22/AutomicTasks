@@ -455,6 +455,7 @@ IAR-1561 - Automic: Transport jobs from Test Automic to Prod Automic P15
 Noiembrie 2026 
 
 Jira Automic 
+Automic Patch management - 17.11.2026
 
 IAR-1565 - Import Job&Event to Automic PROD environment
 IAR-1572 - change in notification objects prod and dev
@@ -463,6 +464,7 @@ IAR-1577 - [Automic]DE Abrechnung Paketierung_10.2026
 IAR-1585 - [Automic] Rename Jobs from REP to P2P
 
 Jira BluePrism
+Blue Prism Patch Management - 18.11.2026
 IAR-1566 - debugging
 IAR-1574 - 11528: SAP-CRE-DE-FICO: WG: C11: Neuanlage BOT-B2B
 IAR-1575 - 11529: SAP-CRE-INT-FICO: WG: C11: Neuanlage BOT-BANK
